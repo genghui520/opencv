@@ -1,1 +1,2 @@
-# opencv
+# include<ioatream>
+  using namespace std;
